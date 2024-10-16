@@ -1,5 +1,5 @@
 # Prediction_App_Serverless-AWS-ECR-Docker
-building an End to End ML Prediction Application.
+building an End to End ML Prediction Application with AWS.
 
 1.Machine Learning Model: Train and test RandomForestClassifier model using Kaggle Dataset
 https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data?select=BankNote_Authentication.csv
